@@ -26,5 +26,5 @@ do
 
     echo "$num"
 
-  fi
+  fi;
 done
